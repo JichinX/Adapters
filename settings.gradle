@@ -1,0 +1,3 @@
+include ':adapters'
+include ':app'
+rootProject.name = "Adapters"
